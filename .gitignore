@@ -8,3 +8,4 @@ app.db
 .ruff_cache/
 .idea/
 .vscode/
+*.egg-info/
